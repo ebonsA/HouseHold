@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+.body{
+
+ margin: auto;
+  width: 80%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+
+
+
+.header{
+
+border: 1px solid grey;
+margin:10px;
+height:200px;
+
+
+}
+
+.nav{
+margin:10px;
+border: 1px solid grey;
+
+height:50px;
+
+}
+.section{
+
+border: 1px solid grey;
+margin:10px;
+height:700px;
+
+}
+
+.footer{
+margin:10px;
+border: 1px solid grey;
+
+height:50px;
+
+margin-bottom:10px;
+text-align:center;
+}
+#fieldset {
+	
+	
+
+}
+.field{
+	 margin: auto;
+  width:500px;
+  border: 3px solid green;
+  padding: 10px;
+  font-size:35px;
+}
